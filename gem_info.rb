@@ -4,7 +4,7 @@
 # Created by Luke van der Hoeven on 10/10/09.
 # Copyright 2009 HungerAndThirst Productions. All rights reserved.
 
-class Gem
+class GemInfo
 	attr_accessor :name, :versions
 
 	def initialize(name, version="1.0")

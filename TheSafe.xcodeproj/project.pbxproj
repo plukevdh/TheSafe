@@ -36,7 +36,7 @@
 		307A7576108127E500228A15 /* gem_window_controller.rb in Resources */ = {isa = PBXBuildFile; fileRef = 307A7575108127E500228A15 /* gem_window_controller.rb */; };
 		307A759610812B9900228A15 /* ruby.icns in Resources */ = {isa = PBXBuildFile; fileRef = 307A759410812B9900228A15 /* ruby.icns */; };
 		307A759710812B9900228A15 /* ruby.png in Resources */ = {isa = PBXBuildFile; fileRef = 307A759510812B9900228A15 /* ruby.png */; };
-		307A75AE1081332900228A15 /* gem.rb in Resources */ = {isa = PBXBuildFile; fileRef = 307A75AD1081332900228A15 /* gem.rb */; };
+		307A75AE1081332900228A15 /* gem_info.rb in Resources */ = {isa = PBXBuildFile; fileRef = 307A75AD1081332900228A15 /* gem_info.rb */; };
 		4DE339F70D74FCDD00ADB6EE /* rb_main.rb in Resources */ = {isa = PBXBuildFile; fileRef = 4DE339F60D74FCDD00ADB6EE /* rb_main.rb */; };
 		4DE3BE140D8651D900ECA448 /* MacRuby.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4DE3BE130D8651D900ECA448 /* MacRuby.framework */; };
 		8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 29B97318FDCFA39411CA2CEA /* MainMenu.nib */; };
@@ -80,7 +80,7 @@
 		307A7575108127E500228A15 /* gem_window_controller.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = gem_window_controller.rb; sourceTree = "<group>"; };
 		307A759410812B9900228A15 /* ruby.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = ruby.icns; sourceTree = "<group>"; };
 		307A759510812B9900228A15 /* ruby.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ruby.png; sourceTree = "<group>"; };
-		307A75AD1081332900228A15 /* gem.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = gem.rb; sourceTree = "<group>"; };
+		307A75AD1081332900228A15 /* gem_info.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = gem_info.rb; sourceTree = "<group>"; };
 		4DE339F60D74FCDD00ADB6EE /* rb_main.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = rb_main.rb; sourceTree = "<group>"; };
 		4DE3BE130D8651D900ECA448 /* MacRuby.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MacRuby.framework; path = /Library/Frameworks/MacRuby.framework; sourceTree = "<absolute>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				307A7575108127E500228A15 /* gem_window_controller.rb */,
-				307A75AD1081332900228A15 /* gem.rb */,
+				307A75AD1081332900228A15 /* gem_info.rb */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -240,7 +240,7 @@
 				307A7576108127E500228A15 /* gem_window_controller.rb in Resources */,
 				307A759610812B9900228A15 /* ruby.icns in Resources */,
 				307A759710812B9900228A15 /* ruby.png in Resources */,
-				307A75AE1081332900228A15 /* gem.rb in Resources */,
+				307A75AE1081332900228A15 /* gem_info.rb in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -4,7 +4,7 @@
 # Created by Luke van der Hoeven on 10/10/09.
 # Copyright 2009 HungerAndThirst Productions. All rights reserved.
 
-require 'gem.rb'
+require 'gem_info.rb'
 
 class GemWindowController < NSWindowController
 
@@ -32,16 +32,10 @@ class GemWindowController < NSWindowController
 	def get_all_gems
 		@gems = []
 	
-		list = `gem list --local`
-		lines = list.split("\n")
-		lines.each do |g|
-			v_start = g.index("(") + 1
-			v_end = g.index(")") - 1
-
-			name = g.split(" ").first
-			version = g[v_start..v_end]	
-			
-			@gems << Gem.new(name, version)
+		Gem.cache.each do |gem|
+			name = gem[1].name
+			version = gem[1].version.to_s
+			@gems << GemInfo.new(name, version)
 		end
 		
 		@gemTableView.dataSource = self
