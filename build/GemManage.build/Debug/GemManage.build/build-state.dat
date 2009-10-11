@@ -1,0 +1,272 @@
+TGemManage
+v7
+r0
+t276911820.325681
+cCheck dependencies
+cProcessInfoPlistFile /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Info.plist Info.plist
+cStripNIB /Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/GemManage.app/Contents/Resources/rb_main.rb rb_main.rb
+cCpResource build/Debug/GemManage.app/Contents/Resources/gem_window_controller.rb gem_window_controller.rb
+cCpResource build/Debug/GemManage.app/Contents/Resources/ruby.icns ruby.icns
+cCpResource build/Debug/GemManage.app/Contents/Resources/ruby.png ruby.png
+cCpResource build/Debug/GemManage.app/Contents/Resources/gem.rb gem.rb
+cCompileC build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/main.o /Users/hungerandthirst/Code/Cocoa/GemManage/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage normal x86_64
+cTouch /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004A49A9E400000000000000EE
+t1246341604
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004ACD6D2F000000000000005F
+t1254976815
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004AD0C5930000000001C6AE28
+t1255196051
+s29797928
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/InfoPlist.strings
+c000000004AD0EC5000000000000000DE
+t1255205968
+s222
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib
+c000000004AD11E010000000000000088
+t1255218689
+s136
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app
+t1255219020
+s102
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Info.plist
+t1255216084
+s832
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage
+t1255216095
+s10136
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/PkgInfo
+t1255216084
+s8
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1255216084
+s222
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/MainMenu.nib
+t1255218692
+s22255
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/gem.rb
+t1255218630
+s355
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/gem_window_controller.rb
+t1255219020
+s2487
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/gems.rb
+t2
+s0
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/git_controller.rb
+t1255212079
+s385
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/rb_main.rb
+t1255216084
+s554
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/ruby.icns
+t1255216084
+s210723
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/ruby.png
+t1255216084
+s8995
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/GemManage.LinkFileList
+c000000004AD113D40000000000000075
+t1255216084
+s117
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/main.o
+t1255216093
+s11576
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/gem.rb
+c000000004AD11DC30000000000000163
+t1255218627
+s355
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/gem_window_controller.rb
+c000000004AD1200F0000000000000A27
+t1255219215
+s2599
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/gems.rb
+c000000004AD105DA000000000000015F
+t1255212506
+s351
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/git_controller.rb
+c000000004AD1042C0000000000000181
+t1255212076
+s385
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/main.m
+c000000004AD0EC50000000000000010D
+t1255205968
+s269
+i<MacRuby/MacRuby.h>
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/rb_main.rb
+c000000004AD0EC50000000000000022A
+t1255205968
+s554
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/ruby.icns
+c000000004AD0F7D40000000000033723
+t1255208916
+s210723
+
+N/Users/hungerandthirst/Code/Cocoa/GemManage/ruby.png
+c000000004AD0F7C70000000000002323
+t1255208903
+s8995
+
+NInfo.plist
+c000000004AD0F427000000000000034F
+t1255207975
+s847
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies276911820#276911820#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/main.o /Users/hungerandthirst/Code/Cocoa/GemManage/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s276908885.142953
+e276908893.717341
+r1
+xCompileC
+xbuild/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/main.o
+x/Users/hungerandthirst/Code/Cocoa/GemManage/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/hungerandthirst/Code/Cocoa/GemManage/main.m276908885#276908893#0(0"0(0#0#50"/Users/hungerandthirst/Code/Cocoa/GemManage/main.m4300882208#1036"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/GemManage.hmap -F/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug -F/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug -I/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/include -I/Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/DerivedSources/x86_64 -I/Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/DerivedSources -c /Users/hungerandthirst/Code/Cocoa/GemManage/main.m -o /Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s276908884.099243
+e276908884.945175
+r1
+xCopyStringsFile
+x/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings276908884#276908884#0(0"0(0#0#75"/Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/InfoPlist.strings4300882208#378"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/gem.rb gem.rb
+s276911430.264359
+e276911430.294811
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/gem.rb
+xgem.rb
+lSLF07#2@11"Copy gem.rb276911430#276911430#0(0"0(0#0#50"/Users/hungerandthirst/Code/Cocoa/GemManage/gem.rb4300882208#339"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/gem.rb /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/gem_window_controller.rb gem_window_controller.rb
+s276911820.203535
+e276911820.321043
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/gem_window_controller.rb
+xgem_window_controller.rb
+lSLF07#2@29"Copy gem_window_controller.rb276911820#276911820#0(0"0(0#0#68"/Users/hungerandthirst/Code/Cocoa/GemManage/gem_window_controller.rb4300882208#357"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/gem_window_controller.rb /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/gems.rb gems.rb
+r0
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/git_controller.rb git_controller.rb
+s276904879.177375
+e276904879.237729
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/git_controller.rb
+xgit_controller.rb
+lSLF07#2@22"Copy git_controller.rb276904879#276904879#0(0"0(0#0#61"/Users/hungerandthirst/Code/Cocoa/GemManage/git_controller.rb4300882208#350"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/git_controller.rb /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/rb_main.rb rb_main.rb
+s276908884.945303
+e276908884.989796
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb276908884#276908884#0(0"0(0#0#54"/Users/hungerandthirst/Code/Cocoa/GemManage/rb_main.rb4300882208#343"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/rb_main.rb /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/ruby.icns ruby.icns
+s276908884.946970
+e276908884.999821
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/ruby.icns
+xruby.icns
+lSLF07#2@14"Copy ruby.icns276908884#276908884#0(0"0(0#0#53"/Users/hungerandthirst/Code/Cocoa/GemManage/ruby.icns4300882208#342"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/ruby.icns /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CCpResource build/Debug/GemManage.app/Contents/Resources/ruby.png ruby.png
+s276908884.947607
+e276908884.993638
+r1
+xCpResource
+xbuild/Debug/GemManage.app/Contents/Resources/ruby.png
+xruby.png
+lSLF07#2@13"Copy ruby.png276908884#276908884#0(0"0(0#0#52"/Users/hungerandthirst/Code/Cocoa/GemManage/ruby.png4300882208#341"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/GemManage/ruby.png /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources0#
+
+CLd /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage normal x86_64
+s276908893.717503
+e276908895.443201
+r1
+xLd
+x/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage
+xnormal
+xx86_64
+lSLF07#2@99"Link /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage276908893#276908895#0(0"0(0#0#0"4300882208#654"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug -F/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug -F/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug -filelist /Users/hungerandthirst/Code/Cocoa/GemManage/build/GemManage.build/Debug/GemManage.build/Objects-normal/x86_64/GemManage.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/MacOS/GemManage0#
+
+CProcessInfoPlistFile /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Info.plist Info.plist
+s276908884.093516
+e276908884.098069
+r1
+xProcessInfoPlistFile
+x/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist276908884#276908884#0(0"0(0#0#54"/Users/hungerandthirst/Code/Cocoa/GemManage/Info.plist4300882208#321"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    builtin-infoPlistUtility Info.plist -genpkginfo /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Info.plist0#
+
+CStripNIB /Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib
+s276911491.826418
+e276911492.358405
+r1
+xStripNIB
+x/Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib276911491#276911492#0(0"0(0#0#70"/Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib4300882208#312"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /Developer/usr/bin/ibtool --strip /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/hungerandthirst/Code/Cocoa/GemManage/English.lproj/MainMenu.nib0#
+
+CTouch /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app
+s276911820.321437
+e276911820.325617
+r1
+xTouch
+x/Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app
+lSLF07#2@75"Touch /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app276911820#276911820#0(0"0(0#0#0"4300882208#143"    cd /Users/hungerandthirst/Code/Cocoa/GemManage    /usr/bin/touch -c /Users/hungerandthirst/Code/Cocoa/GemManage/build/Debug/GemManage.app0#
+

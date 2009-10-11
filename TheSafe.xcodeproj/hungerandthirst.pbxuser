@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 596}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 110}";
+		};
+	};
+	172754BD107597F200D0347B /* Unit Tests */ = {
+		activeExec = 0;
+	};
+	1727560D10759EEA00D0347B /* Embed MacRuby */ = {
+		activeExec = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 307A755E108123D000228A15 /* TheSafe */;
+		activeTarget = 8D1107260486CEB800E47090 /* TheSafe */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* TheSafe */,
+		);
+		codeSenseManager = 307A7574108123DB00228A15 /* Code sense */;
+		executables = (
+			307A755E108123D000228A15 /* TheSafe */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					567,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 276912147;
+			PBXWorkspaceStateSaveDate = 276912147;
+		};
+		perUserProjectItems = {
+			307A759C10812BA900228A15 = 307A759C10812BA900228A15 /* PBXTextBookmark */;
+			307A75AF1081354E00228A15 = 307A75AF1081354E00228A15 /* PlistBookmark */;
+			307A7634108144A400228A15 = 307A7634108144A400228A15 /* PBXBookmark */;
+			307A76A6108155EF00228A15 = 307A76A6108155EF00228A15 /* PBXTextBookmark */;
+			307A76A7108155EF00228A15 = 307A76A7108155EF00228A15 /* PBXTextBookmark */;
+			307A76B21081580400228A15 = 307A76B21081580400228A15 /* PBXTextBookmark */;
+			30AD93B61081585A009B13D4 /* PBXTextBookmark */ = 30AD93B61081585A009B13D4 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 307A7573108123DB00228A15 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	307A755E108123D000228A15 /* TheSafe */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TheSafe;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	307A7573108123DB00228A15 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	307A7574108123DB00228A15 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	307A7575108127E500228A15 /* gem_window_controller.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 1968}}";
+			sepNavSelRange = "{1707, 0}";
+			sepNavVisRange = "{1573, 830}";
+		};
+	};
+	307A759C10812BA900228A15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 110;
+		vrLoc = 0;
+	};
+	307A75AD1081332900228A15 /* gem.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 335}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	307A75AF1081354E00228A15 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = /Users/hungerandthirst/Code/Cocoa/GemManage/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	307A7634108144A400228A15 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 307A759410812B9900228A15 /* ruby.icns */;
+	};
+	307A76A6108155EF00228A15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A75AD1081332900228A15 /* gem.rb */;
+		name = "gem.rb: 16";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	307A76A7108155EF00228A15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 42";
+		rLen = 0;
+		rLoc = 1055;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 538;
+	};
+	307A76B21081580400228A15 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1707;
+		rType = 0;
+		vrLen = 810;
+		vrLoc = 1575;
+	};
+	30AD93B61081585A009B13D4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1707;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 1573;
+	};
+	8D1107260486CEB800E47090 /* TheSafe */ = {
+		activeExec = 0;
+		executables = (
+			307A755E108123D000228A15 /* TheSafe */,
+		);
+	};
+}
