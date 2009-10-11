@@ -70,142 +70,288 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 276912704;
-			PBXWorkspaceStateSaveDate = 276912704;
+			PBXPerProjectTemplateStateSaveDate = 276987223;
+			PBXWorkspaceStateSaveDate = 276987223;
 		};
 		perUserProjectItems = {
-			304CCAC210815A500030B857 /* PBXTextBookmark */ = 304CCAC210815A500030B857 /* PBXTextBookmark */;
-			304CCACE10815A5E0030B857 /* PBXTextBookmark */ = 304CCACE10815A5E0030B857 /* PBXTextBookmark */;
-			304CCACF10815A5E0030B857 /* PBXTextBookmark */ = 304CCACF10815A5E0030B857 /* PBXTextBookmark */;
-			304CCAD110815A630030B857 /* PBXTextBookmark */ = 304CCAD110815A630030B857 /* PBXTextBookmark */;
-			304CCAD210815B400030B857 /* PBXTextBookmark */ = 304CCAD210815B400030B857 /* PBXTextBookmark */;
-			304CCAD710815BA80030B857 /* PBXTextBookmark */ = 304CCAD710815BA80030B857 /* PBXTextBookmark */;
-			304CCAD810815BAA0030B857 /* PBXTextBookmark */ = 304CCAD810815BAA0030B857 /* PBXTextBookmark */;
-			304CCADC10815C2C0030B857 /* PBXTextBookmark */ = 304CCADC10815C2C0030B857 /* PBXTextBookmark */;
-			304CCAE010815C3B0030B857 /* PBXTextBookmark */ = 304CCAE010815C3B0030B857 /* PBXTextBookmark */;
-			304CCAE410815C4D0030B857 /* PBXTextBookmark */ = 304CCAE410815C4D0030B857 /* PBXTextBookmark */;
-			304CCAE810815C5F0030B857 /* PBXTextBookmark */ = 304CCAE810815C5F0030B857 /* PBXTextBookmark */;
+			3057D5C810827D5A0042C968 /* PBXTextBookmark */ = 3057D5C810827D5A0042C968 /* PBXTextBookmark */;
+			3057D5CB10827E540042C968 /* PBXTextBookmark */ = 3057D5CB10827E540042C968 /* PBXTextBookmark */;
+			3057D5CC10827E570042C968 /* PBXTextBookmark */ = 3057D5CC10827E570042C968 /* PBXTextBookmark */;
+			3057D5DA10827F5D0042C968 /* PBXTextBookmark */ = 3057D5DA10827F5D0042C968 /* PBXTextBookmark */;
+			3057D5DC1082801A0042C968 /* PBXTextBookmark */ = 3057D5DC1082801A0042C968 /* PBXTextBookmark */;
+			3057D5DE108280210042C968 /* PBXTextBookmark */ = 3057D5DE108280210042C968 /* PBXTextBookmark */;
+			3057D5DF108280E10042C968 /* PBXTextBookmark */ = 3057D5DF108280E10042C968 /* PBXTextBookmark */;
+			3057D5E91082818D0042C968 /* PBXTextBookmark */ = 3057D5E91082818D0042C968 /* PBXTextBookmark */;
+			3057D5EA1082818D0042C968 /* PBXTextBookmark */ = 3057D5EA1082818D0042C968 /* PBXTextBookmark */;
+			3057D5EC1082818D0042C968 /* PBXTextBookmark */ = 3057D5EC1082818D0042C968 /* PBXTextBookmark */;
+			3057D5EE1082820C0042C968 /* PBXTextBookmark */ = 3057D5EE1082820C0042C968 /* PBXTextBookmark */;
+			3057D5EF1082820C0042C968 /* PBXTextBookmark */ = 3057D5EF1082820C0042C968 /* PBXTextBookmark */;
+			3057D5F01082820C0042C968 /* PBXTextBookmark */ = 3057D5F01082820C0042C968 /* PBXTextBookmark */;
+			3057D5F11082820E0042C968 /* PBXTextBookmark */ = 3057D5F11082820E0042C968 /* PBXTextBookmark */;
+			3057D5F41082821C0042C968 /* PBXTextBookmark */ = 3057D5F41082821C0042C968 /* PBXTextBookmark */;
+			3057D5F51082821D0042C968 /* PBXTextBookmark */ = 3057D5F51082821D0042C968 /* PBXTextBookmark */;
+			3057D5F91082823D0042C968 /* PBXTextBookmark */ = 3057D5F91082823D0042C968 /* PBXTextBookmark */;
+			3057D5FD108282E70042C968 /* PBXTextBookmark */ = 3057D5FD108282E70042C968 /* PBXTextBookmark */;
+			3057D5FE108283010042C968 /* PBXTextBookmark */ = 3057D5FE108283010042C968 /* PBXTextBookmark */;
+			3057D601108283150042C968 /* PBXTextBookmark */ = 3057D601108283150042C968 /* PBXTextBookmark */;
+			3057D602108283150042C968 /* PBXTextBookmark */ = 3057D602108283150042C968 /* PBXTextBookmark */;
+			3057D6041082833C0042C968 /* PBXTextBookmark */ = 3057D6041082833C0042C968 /* PBXTextBookmark */;
+			3057D607108283950042C968 /* PBXTextBookmark */ = 3057D607108283950042C968 /* PBXTextBookmark */;
 			307A759C10812BA900228A15 = 307A759C10812BA900228A15 /* PBXTextBookmark */;
 			307A75AF1081354E00228A15 = 307A75AF1081354E00228A15 /* PlistBookmark */;
 			307A7634108144A400228A15 = 307A7634108144A400228A15 /* PBXBookmark */;
 			307A76A6108155EF00228A15 = 307A76A6108155EF00228A15 /* PBXTextBookmark */;
-			307A76A7108155EF00228A15 = 307A76A7108155EF00228A15 /* PBXTextBookmark */;
-			307A76B21081580400228A15 = 307A76B21081580400228A15 /* PBXTextBookmark */;
-			30AD93B61081585A009B13D4 = 30AD93B61081585A009B13D4 /* PBXTextBookmark */;
+			30A5CC9C10817861006D1BBD = 30A5CC9C10817861006D1BBD /* PBXTextBookmark */;
+			30A5CCAE10817E23006D1BBD = 30A5CCAE10817E23006D1BBD /* PBXTextBookmark */;
 		};
 		sourceControlManager = 307A7573108123DB00228A15 /* Source Control */;
 		userBuildSettings = {
 		};
 	};
-	304CCAC210815A500030B857 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
-		rLen = 0;
-		rLoc = 1794;
-		rType = 0;
-		vrLen = 785;
-		vrLoc = 1573;
-	};
-	304CCACE10815A5E0030B857 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
-		rLen = 0;
-		rLoc = 1794;
-		rType = 0;
-		vrLen = 504;
-		vrLoc = 1573;
-	};
-	304CCACF10815A5E0030B857 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
-		rLen = 0;
-		rLoc = 1794;
-		rType = 0;
-		vrLen = 408;
-		vrLoc = 2191;
-	};
-	304CCAD110815A630030B857 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
-		rLen = 0;
-		rLoc = 1794;
-		rType = 0;
-		vrLen = 836;
-		vrLoc = 1763;
-	};
-	304CCAD210815B400030B857 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 18";
-		rLen = 0;
-		rLoc = 506;
-		rType = 0;
-		vrLen = 845;
-		vrLoc = 41;
-	};
-	304CCAD710815BA80030B857 /* PBXTextBookmark */ = {
+	3057D5C810827D5A0042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
 		name = "gem_window_controller.rb: 23";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 691;
 		rType = 0;
-		vrLen = 829;
+		vrLen = 488;
 		vrLoc = 377;
 	};
-	304CCAD810815BAA0030B857 /* PBXTextBookmark */ = {
+	3057D5CB10827E540042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 23";
+		name = "gem_window_controller.rb: 129";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 3068;
 		rType = 0;
-		vrLen = 829;
-		vrLoc = 377;
+		vrLen = 1032;
+		vrLoc = 1895;
 	};
-	304CCADC10815C2C0030B857 /* PBXTextBookmark */ = {
+	3057D5CC10827E570042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 23";
+		name = "gem_window_controller.rb: 129";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 3068;
 		rType = 0;
-		vrLen = 845;
-		vrLoc = 377;
+		vrLen = 1032;
+		vrLoc = 1895;
 	};
-	304CCAE010815C3B0030B857 /* PBXTextBookmark */ = {
+	3057D5DA10827F5D0042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 23";
+		name = "gem_window_controller.rb: 130";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 3068;
 		rType = 0;
-		vrLen = 850;
-		vrLoc = 377;
+		vrLen = 983;
+		vrLoc = 1802;
 	};
-	304CCAE410815C4D0030B857 /* PBXTextBookmark */ = {
+	3057D5DC1082801A0042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 23";
+		name = "gem_window_controller.rb: 74";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 1722;
 		rType = 0;
-		vrLen = 843;
-		vrLoc = 377;
+		vrLen = 412;
+		vrLoc = 1484;
 	};
-	304CCAE810815C5F0030B857 /* PBXTextBookmark */ = {
+	3057D5DE108280210042C968 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 23";
+		name = "gem_window_controller.rb: 74";
 		rLen = 0;
-		rLoc = 629;
+		rLoc = 1722;
 		rType = 0;
-		vrLen = 863;
-		vrLoc = 377;
+		vrLen = 716;
+		vrLoc = 1341;
+	};
+	3057D5DF108280E10042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 85";
+		rLen = 0;
+		rLoc = 1765;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 1341;
+	};
+	3057D5E91082818D0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 85";
+		rLen = 0;
+		rLoc = 1765;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 2113;
+	};
+	3057D5EA1082818D0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3057D5EB1082818D0042C968 /* RGutsController.rb */;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+		rType = 0;
+	};
+	3057D5EB1082818D0042C968 /* RGutsController.rb */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.ruby;
+		name = RGutsController.rb;
+		path = /Users/hungerandthirst/Code/Cocoa/RGutsSnow/RGutsController.rb;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {785, 976}}";
+			sepNavSelRange = "{828, 180}";
+			sepNavVisRange = "{324, 689}";
+		};
+	};
+	3057D5EC1082818D0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3057D5ED1082818D0042C968 /* RGutsController.rb */;
+		name = "RGutsController.rb: 51";
+		rLen = 180;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 324;
+	};
+	3057D5ED1082818D0042C968 /* RGutsController.rb */ = {
+		isa = PBXFileReference;
+		name = RGutsController.rb;
+		path = /Users/hungerandthirst/Code/Cocoa/RGutsSnow/RGutsController.rb;
+		sourceTree = "<absolute>";
+	};
+	3057D5EE1082820C0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3057D5EB1082818D0042C968 /* RGutsController.rb */;
+		name = "RGutsController.rb: 51";
+		rLen = 180;
+		rLoc = 828;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 324;
+	};
+	3057D5EF1082820C0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 85";
+		rLen = 0;
+		rLoc = 1765;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 2113;
+	};
+	3057D5F01082820C0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 19";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 0;
+	};
+	3057D5F11082820E0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 19";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 882;
+		vrLoc = 0;
+	};
+	3057D5F41082821C0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 19";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	3057D5F51082821D0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 19";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	3057D5F91082823D0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 19";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 828;
+		vrLoc = 0;
+	};
+	3057D5FD108282E70042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 101";
+		rLen = 0;
+		rLoc = 2027;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 1806;
+	};
+	3057D5FE108283010042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 118";
+		rLen = 0;
+		rLoc = 2617;
+		rType = 0;
+		vrLen = 1031;
+		vrLoc = 1819;
+	};
+	3057D601108283150042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 118";
+		rLen = 0;
+		rLoc = 2617;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 1819;
+	};
+	3057D602108283150042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 118";
+		rLen = 0;
+		rLoc = 2617;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 1819;
+	};
+	3057D6041082833C0042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 118";
+		rLen = 0;
+		rLoc = 2617;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 1819;
+	};
+	3057D607108283950042C968 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 114";
+		rLen = 0;
+		rLoc = 2593;
+		rType = 0;
+		vrLen = 921;
+		vrLoc = 1760;
 	};
 	307A755E108123D000228A15 /* TheSafe */ = {
 		isa = PBXExecutable;
@@ -253,9 +399,9 @@
 	};
 	307A7575108127E500228A15 /* gem_window_controller.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {785, 1936}}";
-			sepNavSelRange = "{629, 0}";
-			sepNavVisRange = "{377, 863}";
+			sepNavIntBoundsRect = "{{0, 0}, {785, 2400}}";
+			sepNavSelRange = "{2593, 0}";
+			sepNavVisRange = "{1760, 921}";
 		};
 	};
 	307A759C10812BA900228A15 /* PBXTextBookmark */ = {
@@ -301,35 +447,25 @@
 		vrLen = 355;
 		vrLoc = 0;
 	};
-	307A76A7108155EF00228A15 /* PBXTextBookmark */ = {
+	30A5CC9C10817861006D1BBD /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 42";
+		name = "gem_window_controller.rb: 23";
 		rLen = 0;
-		rLoc = 1142;
+		rLoc = 691;
 		rType = 0;
-		vrLen = 825;
-		vrLoc = 538;
+		vrLen = 488;
+		vrLoc = 377;
 	};
-	307A76B21081580400228A15 /* PBXTextBookmark */ = {
+	30A5CCAE10817E23006D1BBD /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
+		name = "gem_window_controller.rb: 23";
 		rLen = 0;
-		rLoc = 1794;
+		rLoc = 691;
 		rType = 0;
-		vrLen = 810;
-		vrLoc = 1575;
-	};
-	30AD93B61081585A009B13D4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
-		name = "gem_window_controller.rb: 80";
-		rLen = 0;
-		rLoc = 1794;
-		rType = 0;
-		vrLen = 830;
-		vrLoc = 1573;
+		vrLen = 893;
+		vrLoc = 350;
 	};
 	8D1107260486CEB800E47090 /* TheSafe */ = {
 		activeExec = 0;
