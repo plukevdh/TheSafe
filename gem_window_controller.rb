@@ -79,7 +79,7 @@ class GemWindowController < NSWindowController
 	
 	def update
 		select_name = @gems[@gemTableView.selectedRow].name
-		NSTask.launchedTaskWithLaunchPath("/usr/local/bin/gem", arguments: ["update", select_name])
+		NSTask.launchedTaskWithLaunchPath("/usr/local/bin/macgem", arguments: ["update", select_name])
 		output = `gem update #{select_name}`
 		puts output
 		
@@ -97,7 +97,7 @@ class GemWindowController < NSWindowController
 		args << "--source #{@add_source.stringValue}" unless @add_source.stringValue.empty?
 		
     task = NSTask.alloc.init
-    task.launchPath = "/usr/local/bin/gem"
+    task.launchPath = "/usr/local/bin/macgem"
     task.arguments = args
     task.launch
     task.waitUntilExit
@@ -126,7 +126,7 @@ class GemWindowController < NSWindowController
 	def remove
 		puts "remove a gem"
 		select_name = @gems[@gemTableView.selectedRow].name
-		NSTask.launchedTaskWithLaunchPath("/usr/local/bin/gem", arguments: ["uninstall", select_name])
+		NSTask.launchedTaskWithLaunchPath("/usr/local/bin/macgem", arguments: ["uninstall", select_name])
 	end
 	
 	def segmentAction(sender)

@@ -1,7 +1,7 @@
 TTheSafe
 v7
 r0
-t276993238.366514
+t276994302.117789
 cCheck dependencies
 cProcessInfoPlistFile /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Info.plist Info.plist
 cStripNIB /Users/hungerandthirst/Code/Cocoa/TheSafe/English.lproj/MainMenu.nib
@@ -46,7 +46,7 @@ t1255295888
 s136
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app
-t1255298030
+t1255301502
 s102
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Info.plist
@@ -78,11 +78,11 @@ t1255297456
 s359
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources/gem_window_controller.rb
-t1255297358
-s3168
+t1255300846
+s3177
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources/rb_main.rb
-t1255298030
+t1255301502
 s573
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources/ruby.icns
@@ -113,9 +113,9 @@ t1255297455
 s359
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/gem_window_controller.rb
-c000000004AD2514C0000000000000C60
-t1255297356
-s3168
+c000000004AD25EED0000000000000C69
+t1255300845
+s3177
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/main.m
 c000000004AD140AC000000000000010D
@@ -124,8 +124,8 @@ s269
 i<MacRuby/MacRuby.h>
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/rb_main.rb
-c000000004AD253C9000000000000023D
-t1255297993
+c000000004AD2617C000000000000023D
+t1255301500
 s573
 
 N/Users/hungerandthirst/Code/Cocoa/TheSafe/ruby.icns
@@ -145,7 +145,7 @@ s847
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies276993238#276993238#0(0"0(0#1#0"7947009927035180032#0"0#
+lSLF07#2@18"Check dependencies276994302#276994302#0(0"0(0#1#0"4300882208#0"0#
 
 CCompileC build/TheSafe.build/Debug/TheSafe.build/Objects-normal/x86_64/main.o /Users/hungerandthirst/Code/Cocoa/TheSafe/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s276920423.309604
@@ -188,22 +188,22 @@ xgem_info.rb
 lSLF07#2@16"Copy gem_info.rb276990256#276990256#0(0"0(0#0#53"/Users/hungerandthirst/Code/Cocoa/TheSafe/gem_info.rb4300882208#336"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/TheSafe/gem_info.rb /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources0#
 
 CCpResource build/Debug/TheSafe.app/Contents/Resources/gem_window_controller.rb gem_window_controller.rb
-s276990158.891669
-e276990158.900237
+s276993646.923066
+e276993646.955256
 r1
 xCpResource
 xbuild/Debug/TheSafe.app/Contents/Resources/gem_window_controller.rb
 xgem_window_controller.rb
-lSLF07#2@29"Copy gem_window_controller.rb276990158#276990158#0(0"0(0#0#66"/Users/hungerandthirst/Code/Cocoa/TheSafe/gem_window_controller.rb4300882208#349"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/TheSafe/gem_window_controller.rb /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources0#
+lSLF07#2@29"Copy gem_window_controller.rb276993646#276993646#0(0"0(0#0#66"/Users/hungerandthirst/Code/Cocoa/TheSafe/gem_window_controller.rb4300882208#349"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/TheSafe/gem_window_controller.rb /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources0#
 
 CCpResource build/Debug/TheSafe.app/Contents/Resources/rb_main.rb rb_main.rb
-s276990830.038183
-e276990830.047193
+s276994302.104618
+e276994302.114128
 r1
 xCpResource
 xbuild/Debug/TheSafe.app/Contents/Resources/rb_main.rb
 xrb_main.rb
-lSLF07#2@15"Copy rb_main.rb276990830#276990830#0(0"0(0#0#52"/Users/hungerandthirst/Code/Cocoa/TheSafe/rb_main.rb4300882208#335"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/TheSafe/rb_main.rb /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources0#
+lSLF07#2@15"Copy rb_main.rb276994302#276994302#0(0"0(0#0#52"/Users/hungerandthirst/Code/Cocoa/TheSafe/rb_main.rb4300882208#335"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/hungerandthirst/Code/Cocoa/TheSafe/rb_main.rb /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources0#
 
 CCpResource build/Debug/TheSafe.app/Contents/Resources/ruby.icns ruby.icns
 s276920423.282263
@@ -251,10 +251,10 @@ x/Users/hungerandthirst/Code/Cocoa/TheSafe/English.lproj/MainMenu.nib
 lSLF07#2@35"StripNIB English.lproj/MainMenu.nib276988691#276988691#0(0"0(0#0#68"/Users/hungerandthirst/Code/Cocoa/TheSafe/English.lproj/MainMenu.nib4300882208#304"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /Developer/usr/bin/ibtool --strip /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/hungerandthirst/Code/Cocoa/TheSafe/English.lproj/MainMenu.nib0#
 
 CTouch /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app
-s276990830.047495
-e276990830.050842
+s276994302.114537
+e276994302.117747
 r1
 xTouch
 x/Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app
-lSLF07#2@71"Touch /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app276990830#276990830#0(0"0(0#0#0"4300882208#137"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /usr/bin/touch -c /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app0#
+lSLF07#2@71"Touch /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app276994302#276994302#0(0"0(0#0#0"4300882208#137"    cd /Users/hungerandthirst/Code/Cocoa/TheSafe    /usr/bin/touch -c /Users/hungerandthirst/Code/Cocoa/TheSafe/build/Debug/TheSafe.app0#
 
