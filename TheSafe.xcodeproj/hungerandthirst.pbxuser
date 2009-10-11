@@ -16,6 +16,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 307A755E108123D000228A15 /* TheSafe */;
+		activeSDKPreference = macosx10.6;
 		activeTarget = 8D1107260486CEB800E47090 /* TheSafe */;
 		addToTargets = (
 			8D1107260486CEB800E47090 /* TheSafe */,
@@ -69,21 +70,142 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 276912147;
-			PBXWorkspaceStateSaveDate = 276912147;
+			PBXPerProjectTemplateStateSaveDate = 276912704;
+			PBXWorkspaceStateSaveDate = 276912704;
 		};
 		perUserProjectItems = {
+			304CCAC210815A500030B857 /* PBXTextBookmark */ = 304CCAC210815A500030B857 /* PBXTextBookmark */;
+			304CCACE10815A5E0030B857 /* PBXTextBookmark */ = 304CCACE10815A5E0030B857 /* PBXTextBookmark */;
+			304CCACF10815A5E0030B857 /* PBXTextBookmark */ = 304CCACF10815A5E0030B857 /* PBXTextBookmark */;
+			304CCAD110815A630030B857 /* PBXTextBookmark */ = 304CCAD110815A630030B857 /* PBXTextBookmark */;
+			304CCAD210815B400030B857 /* PBXTextBookmark */ = 304CCAD210815B400030B857 /* PBXTextBookmark */;
+			304CCAD710815BA80030B857 /* PBXTextBookmark */ = 304CCAD710815BA80030B857 /* PBXTextBookmark */;
+			304CCAD810815BAA0030B857 /* PBXTextBookmark */ = 304CCAD810815BAA0030B857 /* PBXTextBookmark */;
+			304CCADC10815C2C0030B857 /* PBXTextBookmark */ = 304CCADC10815C2C0030B857 /* PBXTextBookmark */;
+			304CCAE010815C3B0030B857 /* PBXTextBookmark */ = 304CCAE010815C3B0030B857 /* PBXTextBookmark */;
+			304CCAE410815C4D0030B857 /* PBXTextBookmark */ = 304CCAE410815C4D0030B857 /* PBXTextBookmark */;
+			304CCAE810815C5F0030B857 /* PBXTextBookmark */ = 304CCAE810815C5F0030B857 /* PBXTextBookmark */;
 			307A759C10812BA900228A15 = 307A759C10812BA900228A15 /* PBXTextBookmark */;
 			307A75AF1081354E00228A15 = 307A75AF1081354E00228A15 /* PlistBookmark */;
 			307A7634108144A400228A15 = 307A7634108144A400228A15 /* PBXBookmark */;
 			307A76A6108155EF00228A15 = 307A76A6108155EF00228A15 /* PBXTextBookmark */;
 			307A76A7108155EF00228A15 = 307A76A7108155EF00228A15 /* PBXTextBookmark */;
 			307A76B21081580400228A15 = 307A76B21081580400228A15 /* PBXTextBookmark */;
-			30AD93B61081585A009B13D4 /* PBXTextBookmark */ = 30AD93B61081585A009B13D4 /* PBXTextBookmark */;
+			30AD93B61081585A009B13D4 = 30AD93B61081585A009B13D4 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 307A7573108123DB00228A15 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	304CCAC210815A500030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 1573;
+	};
+	304CCACE10815A5E0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 1573;
+	};
+	304CCACF10815A5E0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 2191;
+	};
+	304CCAD110815A630030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 80";
+		rLen = 0;
+		rLoc = 1794;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 1763;
+	};
+	304CCAD210815B400030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 18";
+		rLen = 0;
+		rLoc = 506;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 41;
+	};
+	304CCAD710815BA80030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 377;
+	};
+	304CCAD810815BAA0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 829;
+		vrLoc = 377;
+	};
+	304CCADC10815C2C0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 377;
+	};
+	304CCAE010815C3B0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 377;
+	};
+	304CCAE410815C4D0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 377;
+	};
+	304CCAE810815C5F0030B857 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
+		name = "gem_window_controller.rb: 23";
+		rLen = 0;
+		rLoc = 629;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 377;
 	};
 	307A755E108123D000228A15 /* TheSafe */ = {
 		isa = PBXExecutable;
@@ -131,9 +253,9 @@
 	};
 	307A7575108127E500228A15 /* gem_window_controller.rb */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {785, 1968}}";
-			sepNavSelRange = "{1707, 0}";
-			sepNavVisRange = "{1573, 830}";
+			sepNavIntBoundsRect = "{{0, 0}, {785, 1936}}";
+			sepNavSelRange = "{629, 0}";
+			sepNavVisRange = "{377, 863}";
 		};
 	};
 	307A759C10812BA900228A15 /* PBXTextBookmark */ = {
@@ -184,7 +306,7 @@
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
 		name = "gem_window_controller.rb: 42";
 		rLen = 0;
-		rLoc = 1055;
+		rLoc = 1142;
 		rType = 0;
 		vrLen = 825;
 		vrLoc = 538;
@@ -194,7 +316,7 @@
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
 		name = "gem_window_controller.rb: 80";
 		rLen = 0;
-		rLoc = 1707;
+		rLoc = 1794;
 		rType = 0;
 		vrLen = 810;
 		vrLoc = 1575;
@@ -204,7 +326,7 @@
 		fRef = 307A7575108127E500228A15 /* gem_window_controller.rb */;
 		name = "gem_window_controller.rb: 80";
 		rLen = 0;
-		rLoc = 1707;
+		rLoc = 1794;
 		rType = 0;
 		vrLen = 830;
 		vrLoc = 1573;

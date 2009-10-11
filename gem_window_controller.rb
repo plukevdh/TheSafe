@@ -15,14 +15,16 @@ class GemWindowController < NSWindowController
 		#inputs for adding a gem
 	attr_writer :add_name, :add_version, :add_source, :add_docs
 		#outputs for
-	attr_writer :info_name, :info_curr_ver, :info_vers
+	attr_writer :info_name, :info_curr_ver, :info_vers, :gem_nums
 	
 	def awakeFromNib
 		get_all_gems()
+		
+		@gem_nums.stringValue = @gem_nums.stringValue.sub("x", @gems.size.to_s)
 	end
 	
 	def get_all_gems
-			@gems = []
+		@gems = []
 	
 		list = `gem list --local`
 		lines = list.split("\n")
