@@ -16,5 +16,15 @@ class GemInfo
 		ver_set = @versions.split(", ")
 		ver_set.sort.last
 	end
+	
+	def <=>(other)
+    if @name < other.name
+      -1
+    elsif @name > other.name
+      1
+    else
+      0
+    end
+  end
 
 end

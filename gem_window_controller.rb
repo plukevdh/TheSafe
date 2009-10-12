@@ -19,10 +19,14 @@ class GemWindowController < NSWindowController
 		#segement controller
 	attr_accessor :segmentControl
 	
+	attr_accessor :progressIndicate
+	
 	def awakeFromNib
 		get_all_gems()
 		
+		gemTableView.doubleAction = "info"
 		@gem_nums.stringValue = @gem_nums.stringValue.sub("x", @gems.size.to_s)
+		@progressIndicate.usesThreadedAnimation = true
 	end
 	
   def windowWillClose(sender)
@@ -37,7 +41,11 @@ class GemWindowController < NSWindowController
 			version = gem[1].version.to_s
 			@gems << GemInfo.new(name, version)
 		end
-		
+
+		@gems.sort!
+		puts @gems.inspect
+
+		@gem_nums.stringValue = @gem_nums.stringValue.sub("/\d+/", @gems.size.to_s)
 		@gemTableView.dataSource = self
 	end
 	
@@ -62,9 +70,13 @@ class GemWindowController < NSWindowController
 			contextInfo:nil)
 	end
 	
-	def close_add		
+	def close_add
 		@add_sheet.orderOut(nil)
     NSApp.endSheet(@add_sheet)
+	end
+
+	def cancel_add(sender)
+		close_add
 	end
 
 	
@@ -72,11 +84,7 @@ class GemWindowController < NSWindowController
 		@info_sheet.orderOut(nil)
     NSApp.endSheet(@info_sheet)
 	end
-	
-	def cancel_add(sender)
-		close_add
-	end
-	
+		
 	def update
 		select_name = @gems[@gemTableView.selectedRow].name
 		NSTask.launchedTaskWithLaunchPath("/usr/local/bin/macgem", arguments: ["update", select_name])
@@ -93,8 +101,10 @@ class GemWindowController < NSWindowController
       args << "--no-rdoc"
       args << "--no-ri"
     end 
-    args << "--version \"= #{@add_version.stringValue}\"" unless @add_version.stringValue.empty?
+    args << "--version \"<= #{@add_version.stringValue}\"" unless @add_version.stringValue.empty?
 		args << "--source #{@add_source.stringValue}" unless @add_source.stringValue.empty?
+		
+		progressIndicate.startAnimation(sender)
 		
     task = NSTask.alloc.init
     task.launchPath = "/usr/local/bin/macgem"
@@ -102,10 +112,13 @@ class GemWindowController < NSWindowController
     task.launch
     task.waitUntilExit
     puts task.terminationStatus
-		
+				
 		puts "running gem #{args.join(' ')}"
 		
+		progressIndicate.stopAnimation(sender)
+			
 		get_all_gems
+		@gemTableView.reloadData
 		close_add
 	end
 
